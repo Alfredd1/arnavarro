@@ -11,10 +11,10 @@
 - _ Underscore
 - \+ Plus sign
 
-  # Links
+# Links
   [Github Pages](https://pages.github.com/)
 
-  # Experiments
+# Experiments
   - :blush:
   - :smirk:
   - :kissing_closed_eyes:
