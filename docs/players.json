@@ -18,12 +18,12 @@
     "Age": "36"
   }, 
   {
-    "Name": "Serena Williams",
-    "Sport": "Tennis",
-    "Team Name": "N/A",
-    "Team City": "N/A",
-    "Position": "Player",
-    "Age": "41"
+    "Name": "Serena Williams", //string
+    "Sport": "Tennis", //string
+    "Team Name": "N/A", //string
+    "Team City": "N/A", //string
+    "Position": "Player", //string
+  "Age": "41" //number
   },
   {
     "Name": "Tom Brady",
